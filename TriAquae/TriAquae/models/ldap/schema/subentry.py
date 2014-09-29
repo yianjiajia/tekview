@@ -1,0 +1,1 @@
+../../../../../share/pyshared/ldap/schema/subentry.py

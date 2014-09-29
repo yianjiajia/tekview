@@ -1,0 +1,117 @@
+Last login: Sun Oct 27 01:12:36 2013 from 192.168.2.179
+[root@coral ~]# ls
+anaconda-ks.cfg  [0m[01;34mdemo_sftp_folder[0m             install.log         test.py
+[01;34mbuild[0m            [01;31mepel-release-6-8.noarch.rpm[0m  install.log.syslog
+[m[root@coral ~]# pwd
+/root
+[root@coral ~]# ls
+anaconda-ks.cfg  [0m[01;34mdemo_sftp_folder[0m             install.log         test.py
+[01;34mbuild[0m            [01;31mepel-release-6-8.noarch.rpm[0m  install.log.syslog
+[m[root@coral ~]# cd /tmp/
+[root@coral tmp]# ll
+total 12
+lrwxrwxrwx 1 root root   28 Oct 26 23:06 [0m[01;36mre[0m -> /etc/pki/tls/certs/slapd.pem
+-rw-r----- 1 root ldap 2913 Oct 26 23:05 slapd.pem
+drwx------ 2 root root 4096 Oct 27 01:12 [01;34mssh-nipEw28108[0m
+-rw------- 1 root root  256 Oct 26 19:39 tmp.eKw3AzH8tO
+[m[root@coral tmp]# tri[Ki
+-bash: tri: command not found
+[root@coral tmp]# exit
+logout
+Last login: Sun Oct 27 01:18:59 2013 from 192.168.2.5
+[root@coral ~]# 
+[root@coral ~]# 
+[root@coral ~]# ls
+anaconda-ks.cfg  [0m[01;34mdemo_sftp_folder[0m             install.log         test.py
+[01;34mbuild[0m            [01;31mepel-release-6-8.noarch.rpm[0m  install.log.syslog
+[m[root@coral ~]# ls
+anaconda-ks.cfg  [0m[01;34mdemo_sftp_folder[0m             install.log         test.py
+[01;34mbuild[0m            [01;31mepel-release-6-8.noarch.rpm[0m  install.log.syslog
+[m[root@coral ~]# pwd
+/root
+[root@coral ~]# tri
+-bash: tri: command not found
+[root@coral ~]# exit
+logout
+Last login: Sun Oct 27 01:19:37 2013 from 192.168.2.5
+[root@coral ~]# ls
+anaconda-ks.cfg  [0m[01;34mdemo_sftp_folder[0m             install.log         test.py
+[01;34mbuild[0m            [01;31mepel-release-6-8.noarch.rpm[0m  install.log.syslog
+[m[root@coral ~]# pwd
+/root
+[root@coral ~]# tri
+-bash: tri: command not found
+[root@coral ~]# tri
+-bash: tri: command not found
+[root@coral ~]# exit
+logout
+Last login: Sun Oct 27 01:20:32 2013 from 192.168.2.5
+[root@coral ~]# 
+[root@coral ~]# 
+[root@coral ~]# 
+[root@coral ~]# ls
+anaconda-ks.cfg  [0m[01;34mdemo_sftp_folder[0m             install.log         test.py
+[01;34mbuild[0m            [01;31mepel-release-6-8.noarch.rpm[0m  install.log.syslog
+[m[root@coral ~]# pwd
+/root
+[root@coral ~]# tri
+-bash: tri: command not found
+[root@coral ~]# exit
+logout
+Last login: Sun Oct 27 01:21:52 2013 from 192.168.2.5
+[root@coral ~]# 
+[root@coral ~]# s[Kls
+anaconda-ks.cfg  [0m[01;34mdemo_sftp_folder[0m             install.log         test.py
+[01;34mbuild[0m            [01;31mepel-release-6-8.noarch.rpm[0m  install.log.syslog
+[m[root@coral ~]# pwd
+/root
+[root@coral ~]# ll
+total 48
+-rw-------. 1 root root   966 Sep 27 22:21 anaconda-ks.cfg
+drwxr-xr-x. 2 root root  4096 Oct 24 20:35 [0m[01;34mbuild[0m
+drwxr-xr-x  2 root root  4096 Oct 27 00:59 [01;34mdemo_sftp_folder[0m
+-rw-r--r--  1 root root 14540 Dec 26  2012 [01;31mepel-release-6-8.noarch.rpm[0m
+-rw-r--r--. 1 root root  8785 Sep 27 22:21 install.log
+-rw-r--r--. 1 root root  3161 Sep 27 22:20 install.log.syslog
+-rw-r--r--  1 root root  1678 Oct 26 23:52 test.py
+[m[root@coral ~]# ll test.py 
+-rw-r--r-- 1 root root 1678 Oct 26 23:52 test.py
+[root@coral ~]# tri
+-bash: tri: command not found
+[root@coral ~]# tri test.py 
+-bash: tri: command not found
+[root@coral ~]# tri test.py
+-bash: tri: command not found
+[root@coral ~]# tri test.py
+-bash: tri: command not found
+[root@coral ~]# tri test.py
+-bash: tri: command not found
+[root@coral ~]# 
+[root@coral ~]# 
+[root@coral ~]# tri
+-bash: tri: command not found
+[root@coral ~]# tri
+-bash: tri: command not found
+[root@coral ~]# sdf
+-bash: sdf: command not found
+[root@coral ~]# tri test.py
+-bash: tri: command not found
+[root@coral ~]# exit
+logout
+Last login: Sun Oct 27 01:25:20 2013 from 192.168.2.5
+[root@coral ~]# ls
+anaconda-ks.cfg  [0m[01;34mdemo_sftp_folder[0m             install.log         test.py
+[01;34mbuild[0m            [01;31mepel-release-6-8.noarch.rpm[0m  install.log.syslog
+[m[root@coral ~]# tri test.pyLast login: Sun Oct 27 01:29:23 2013 from 192.168.2.5
+[root@coral ~]# ls
+anaconda-ks.cfg  [0m[01;34mdemo_sftp_folder[0m             install.log         test.py
+[01;34mbuild[0m            [01;31mepel-release-6-8.noarch.rpm[0m  install.log.syslog
+[m[root@coral ~]# tri test.pyLast login: Sun Oct 27 01:30:51 2013 from 192.168.2.5
+[root@coral ~]# ls
+anaconda-ks.cfg  [0m[01;34mdemo_sftp_folder[0m             install.log         test.py
+[01;34mbuild[0m            [01;31mepel-release-6-8.noarch.rpm[0m  install.log.syslog
+[m[root@coral ~]# tri test.pyLast login: Sun Oct 27 01:32:16 2013 from 192.168.2.5
+[root@coral ~]# ls
+anaconda-ks.cfg  [0m[01;34mdemo_sftp_folder[0m             install.log         test.py
+[01;34mbuild[0m            [01;31mepel-release-6-8.noarch.rpm[0m  install.log.syslog
+[m[root@coral ~]# tri test.py
