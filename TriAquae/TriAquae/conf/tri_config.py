@@ -1,1 +1,0 @@
-../backend/tri_config.py

@@ -1,1 +1,0 @@
-../../../../../share/pyshared/ldap/schema/__init__.py

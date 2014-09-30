@@ -1,6 +1,0 @@
-test	denglei
-test	alex
-weblogic	denglei
-weblogic	alex
-apache	denglei
-apache	alex
